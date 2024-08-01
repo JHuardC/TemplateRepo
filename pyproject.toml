@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=64.0.0", "wheel>=0.38.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = 
+version = "0.0.0-dev"
+description =
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
